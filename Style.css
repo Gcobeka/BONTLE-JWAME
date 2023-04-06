@@ -1,4 +1,13 @@
+@media screen and (min-width: 480px) {}
+body{
+    background-color: aqua;
+}
+
 .carousel-inner{
     width: 1362px;
     height:600px;
+}
+
+h1{
+position: relative; top: 100px; left: 100px;
 }
